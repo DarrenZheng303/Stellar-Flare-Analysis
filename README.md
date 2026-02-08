@@ -215,13 +215,13 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-[Specify license - e.g., MIT, GPL-3.0, Apache-2.0]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For questions or collaboration inquiries:
-- GitHub Issues: [Repository URL]
-- Email: [Your contact email]
+- GitHub Issues: https://github.com/DarrenZheng303/Stellar-Flare-Analysis/issues
+- GitHub: [@DarrenZheng303](https://github.com/DarrenZheng303)
 
 ## Acknowledgments
 
